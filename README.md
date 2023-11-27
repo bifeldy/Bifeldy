@@ -11,7 +11,7 @@
   </samp>
   <br />
   <br />
-  <img src="https://github.com/bifeldy/bifeldy/blob/master/picture.png" width="300" />
+  <img src="https://raw.githubusercontent.com/bifeldy/bifeldy/main/picture.png" width="300" />
   <br />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bifeldy&show_icons=true&theme=gruvbox&locale=en&layout=compact" height="150" />
